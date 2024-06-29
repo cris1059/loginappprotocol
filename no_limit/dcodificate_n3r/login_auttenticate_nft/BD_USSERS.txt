@@ -1,3 +1,3 @@
 Lenny001, LeNy001PRE, ./pages/Lenny001.html
 Fab002, FaB002PRE, ./pages/Fab002.html
-usuario3, contrasenia3
+Dan003, YTI1059I, ./pages/Dan003.html
