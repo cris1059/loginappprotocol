@@ -1,4 +1,5 @@
 Lenny001, LeNy001PRE, ./pages/Lenny001.html
 Fab002, FaB002PRE, ./pages/Fab002.html
 Dan003, YTI1059I, ./pages/Dan003.html
-Electro004, ELE1059, ./pages/Electro004.html
+Arturo004, KYU1059L, ./pages/Arturo004.html
+Electro005, OWT1059O, ./pages/Electro005.html
